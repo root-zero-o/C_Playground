@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="Hello.c" />
     <ClCompile Include="operator.c" />
+    <ClCompile Include="scan.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
