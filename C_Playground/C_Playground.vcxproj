@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello.c" />
+    <ClCompile Include="notation.c" />
     <ClCompile Include="operator.c" />
     <ClCompile Include="scan.c" />
   </ItemGroup>
