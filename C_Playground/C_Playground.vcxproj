@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dataType.c" />
     <ClCompile Include="Hello.c" />
     <ClCompile Include="notation.c" />
     <ClCompile Include="operator.c" />

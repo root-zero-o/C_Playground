@@ -1,13 +1,10 @@
 #include <stdio.h>
 
 int main(void) {
-	//notation();
-	//float_error();
-	//bit_and_operation();
-	//bit_or_operation();
-	//bit_xor_operation();
-	//bit_right_shift();
-	//question_4_4_1();
-	question_4_4_2();
+	//size_of_operator();
+	//question5_1_1();
+	//question5_1_2();
+	//question5_1_4();
+	auto_conv_one();
 	return 0;
 }
