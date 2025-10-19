@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
-	//size_of_operator();
-	//question5_1_1();
-	//question5_1_2();
-	//question5_1_4();
-	auto_conv_one();
+	//simple_while();
+	//question_7_1_1();
+	//question_7_1_2();
+	question_7_4_2();
 	return 0;
 }
